@@ -3,7 +3,7 @@ Food Donation App
 
 # Proposed System :
 
-  The application ‘FooDo’ will first ask the user if they just want to donate some food (if they are a donor) or if they want to login as a volunteer (if the user is a volunteer). A user can also know more about the app by clicking on the ‘about us’ button.
+    The application ‘FooDo’ will first ask the user if they just want to donate some food (if they are a donor) or if they want to login as a volunteer (if the user is a volunteer). A user can also know more about the app by clicking on the ‘about us’ button.
   
   If the user is a volunteer, (s)he will have to login. Once (s)he logs in, they will be alerted of a new donation that requires a volunteer. If (s)he chooses to accept the delivery, (s)he will be asked to enter basic information, like his/her name, mobile number and current location. Once (s)he reaches the location of the donation, (s)he will have to check the quality of food and verify the quantity available. Once (s)he has delivered the food to the NGO, they will click on a button to confirm the completion of the delivery. If the user however is a new volunteer, (s)he can register by entering email-id, a password and his/her mobile number after which (s)he can login using the login page.
   
