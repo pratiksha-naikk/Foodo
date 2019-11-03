@@ -1,7 +1,7 @@
 # Foodo
 Food Donation App
 
-# Proposed System :
+# Proposed System 
 
    The application ‘FooDo’ will first ask the user if they just want to donate some food (if they are a donor) or if they want to login as a volunteer (if the user is a volunteer). A user can also know more about the app by clicking on the ‘about us’ button.
   
