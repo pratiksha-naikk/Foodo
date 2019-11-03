@@ -15,7 +15,7 @@ Food Donation App
 This is the page that will open the moment you click on the application. 
 This page will have three buttons: 1.Donate  2.Login   3.About us
 
-2.DONATE 
+2. DONATE 
 
 After clicking on the donate button on the homepage user will be taken to this page. Here the user will have to enter the details about the donation he/she is about to make. It is compulsory for the user to enter the following details for smooth pickup of the donation:
 ●Full name of the donor
