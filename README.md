@@ -10,7 +10,6 @@ Food Donation App
   If the user is a donor, the application will ask him/her to enter their full name, mobile number, address, type of food they are donating ( veg/ non-veg), and quantity (in number of people it will serve). After confirmation of the details, the donor will be taken to another page which will show the information about the pickup. The volunteer coming to pick up will also perform a quality check of the product so as to ensure the food delivered is in good condition. If the donation is verified, it is delivered to an NGO and the donor will get a notification and a thank you message. 
 
 # Activities
-
 1. HOME PAGE
 
 This is the page that will open the moment you click on the application. 
