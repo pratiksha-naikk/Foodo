@@ -12,7 +12,9 @@ Food Donation App
 # Activities
 
 1. HOME PAGE
-This is the page that will open the moment you click on the application. This page will have three buttons:
+This is the page that will open the moment you click on the application. 
+This page will have three buttons: 
+
    Donate 
    Login
    About us
