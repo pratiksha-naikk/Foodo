@@ -55,3 +55,9 @@ Once the user is done he/she can click on the button “Donate”  to go to the 
 We have created Two separate Databases for this application:
 1. To store donation information
 2. To store volunteer information
+
+TABLES
+
+1. Donor_info :
+	1. Each donation has a unique ID which is the primary key. 
+	1. The details submitted by the donor are stored in this table.
