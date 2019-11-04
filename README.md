@@ -63,3 +63,4 @@ TABLES
 	1. The details submitted by the donor are stored in this table.
 
 	D_fullname | D_mobile | D_address | D_type | D_quantity
+	---------- | -------- | --------- | ------ | -----------
