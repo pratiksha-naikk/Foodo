@@ -61,3 +61,5 @@ TABLES
 1. Donor_info :
 	1. Each donation has a unique ID which is the primary key. 
 	1. The details submitted by the donor are stored in this table.
+
+	D_fullname | D_mobile | D_address | D_type | D_quantity
