@@ -12,12 +12,12 @@ Food Donation App
 # Activities
 1. HOME PAGE
 
-This is the page that will open the moment you click on the application. 
+	This is the page that will open the moment you click on the application. 
 This page will have three buttons: 1.Donate  2.Login   3.About us
 
 2. DONATE 
 
-After clicking on the donate button on the homepage user will be taken to this page. Here the user will have to enter the details about the donation he/she is about to make. It is compulsory for the user to enter the following details for smooth pickup of the donation:
+	After clicking on the donate button on the homepage user will be taken to this page. Here the user will have to enter the details about the donation he/she is about to make. It is compulsory for the user to enter the following details for smooth pickup of the donation:
 * Full name of the donor
 * Mobile number of donor
 * Address 
@@ -36,7 +36,7 @@ Once the user is done he/she can click on the button “Donate”  to go to the 
 
 5. DONOR INFORMATION 
 
-This is the page volunteer will be sent to after he/she logs into the app. Here they will get to know where their next pickup is and the phone number and name of the donor. To help the volunteer navigate to donor’s address, we have also added a google maps option.
+	This is the page volunteer will be sent to after he/she logs into the app. Here they will get to know where their next pickup is and the phone number and name of the donor. To help the volunteer navigate to donor’s address, we have also added a google maps option.
 
 6. CHECK QUALITY
 
@@ -44,7 +44,7 @@ This is the page volunteer will be sent to after he/she logs into the app. Here 
 
 7. THANK YOU 
 
-By donating food, one makes sure that there is one less hungry person that day. After the donation reaches the NGO the donor will be directed to a thank you page which will tell the user that the donation was successful.
+	By donating food, one makes sure that there is one less hungry person that day. After the donation reaches the NGO the donor will be directed to a thank you page which will tell the user that the donation was successful.
 
 8. ABOUT US
 
