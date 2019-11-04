@@ -27,21 +27,26 @@ After clicking on the donate button on the homepage user will be taken to this p
 Once the user is done he/she can click on the button “Donate”  to go to the next page.
 
 3. PICK-UP INFO
+
 	This page is displayed after the user enters the details for the donation. Here the user will find the details about the volunteer that is going to pick up the donation. The user will also be shown the volunteer’s phone number, in case he/she wants to contact them and, and the estimated time of arrival to the address entered in donation page. The donor now has to wait for the volunteer to come to the address and check the donation for quality and quantity. After the donated food is delivered to NGO, the donor will be taken to a Thank You page.
 
 4. LOGIN
+
 	From the homepage, if a person wants to register/ login as a volunteer, they can click on the register button on the home page. This will take them to a form that asks for email address and a password to register. Here the system will check if the email already exists in the database, if not, the user is now registered as a volunteer. If the user is already exists, they can enter their credentials and login. Here, if the credentials don't match, the user will be displayed a message "invalid userid or password.
 
 5. DONOR INFORMATION 
+
 This is the page volunteer will be sent to after he/she logs into the app. Here they will get to know where their next pickup is and the phone number and name of the donor. To help the volunteer navigate to donor’s address, we have also added a google maps option.
 
 6. CHECK QUALITY
+
 	Now that the volunteer has reached the donor’s address, the next task is to check for quality and the quantity of food. This page has a list of things that need to be checked like quality, quantity and the type of food. If the volunteer finds it okay, the donation can be taken to the NGO. 
 
-
 7. THANK YOU 
+
 By donating food, one makes sure that there is one less hungry person that day. After the donation reaches the NGO the donor will be directed to a thank you page which will tell the user that the donation was successful.
 
 8. ABOUT US
+
 	This page will explain how to use this app to help those in need. 
 
