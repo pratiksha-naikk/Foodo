@@ -50,3 +50,8 @@ Once the user is done he/she can click on the button “Donate”  to go to the 
 
 	This page will explain how to use this app to help those in need. 
 
+# Database Structure 
+
+We have created Two separate Databases for this application:
+1. To store donation information
+2. To store volunteer information
