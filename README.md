@@ -24,7 +24,7 @@ This page will have three buttons: 1.Donate  2.Login   3.About us
 * Type of food ( Veg/ Non-veg)
 * Quantity of the donation ( in number of people it would feed)
 
-Once the user is done he/she can click on the button “Donate”  to go to the next page.
+	Once the user is done he/she can click on the button “Donate”  to go to the next page.
 
 3. PICK-UP INFO
 
