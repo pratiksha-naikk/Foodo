@@ -62,6 +62,9 @@ TABLES
 	1. Each donation has a unique ID which is the primary key. 
 	1. The details submitted by the donor are stored in this table.
 	
-
 	D_fullname | D_mobile | D_address | D_type | D_quantity
 	---------- | -------- | --------- | ------ | -----------
+	
+2. 2.Volunteer_info
+	1. This table stores personal information about the volunteer.
+	1. The volunteer id (V_ID) is the same id generated at the time of registration. 
