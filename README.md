@@ -77,4 +77,10 @@ TABLES
 	
 	V_email | V_password | V_mobile 
 	---------- | -------- | --------- 
+	
+# Location API
+
+FooDo uses the MAPS API from Google API package. As the app involves a volunteer going to a location specified by the donor, integrating maps into the app helps a lot. The API automatically handles access to Google Maps servers, data downloading, map display, and response to map gestures.
+
+To mark the donor's or volunteer’s location on the map we use API calls to add markers, polygons, and overlays to a basic map, and to change the user's view of a particular map area. These objects provide additional information for map locations, and allow user interaction with the map. To request for user’s location from the device we have added a uses-permissions tag in the manifest file. The app will use the fine and coarse permissions.
 
