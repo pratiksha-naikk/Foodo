@@ -74,4 +74,7 @@ TABLES
 
 3. Login_volunteer
 	1. This table saves the volunteer’s details that he/she entered at the time of registration and uses them to match credentials while the volunteer tries to log in.
+	
+	V_email | V_password | V_mobile 
+	---------- | -------- | --------- 
 
