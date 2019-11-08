@@ -68,3 +68,6 @@ TABLES
 2. Volunteer_info :
 	1. This table stores personal information about the volunteer.
 	1. The volunteer id (V_ID) is the same id generated at the time of registration. 
+	
+	V_fullname | V_mobile | V_address 
+	---------- | -------- | --------- 
