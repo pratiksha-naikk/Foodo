@@ -86,7 +86,7 @@ To mark the donor's or volunteer’s location on the map we use API calls to add
 
 Privacy is taken very seriously in our application and the app only uses and updates location data when required by the app. We notify the users when their location is being tracked. If one doesn't want to share his/her location, the app allows this To optimize efficiency and minimize cost and power use, we have specified the minimum time and the minimum distance between location change updates. The update rate is kept as high as possible to avoid utilizing a lot of battery life.
 
-To get an API key:
+**To get an API key:**
 1. Visit the Google Cloud Platform Console.
 1. Click the project drop-down and select or create the project for which you want to add an API key.
 1. Click the menu button  and select APIs & Services > Credentials.
