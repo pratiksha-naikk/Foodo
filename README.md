@@ -95,7 +95,7 @@ Privacy is taken very seriously in our application and the app only uses and upd
 1. Click Close.
 1. The new API key is listed on the Credentials page under API keys.
 
-### Video
+## Video
 
 We provide a detailed tutorial about “how to use” to our about-us page. This video will explain all the steps to make a donation.  The video player in the app won’t restart the video when it is not visible thus saving resources. All the controls will be displayed to give users option to play or pause the video.
 
