@@ -96,4 +96,5 @@ Privacy is taken very seriously in our application and the app only uses and upd
 1. The new API key is listed on the Credentials page under API keys.
 
 
+
 Created By Shaily Pandey, Chandrakantha Sruthi and Pratiksha Naik.
