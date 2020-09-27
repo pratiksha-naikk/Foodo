@@ -1,6 +1,21 @@
 # Foodo
 Food Donation App
 
+## Table of Content
+- [Proposed System](#proposed-system)
+- [Activities](#activities)
+  * [1. HOME PAGE](#1-home-page)
+  * [2. DONATE](#2-donate)
+  * [3. PICK-UP INFO](#3-pick-up-info)
+  * [4. LOGIN](#4-login)
+  * [5. DONOR INFORMATION](#5-donor-information)
+  * [6. CHECK QUALITY](#6-check-quality)
+  * [7. THANK YOU](#7-thank-you)
+  * [8. ABOUT US](#8-about-us)
+- [Database Structure](#database-structure)
+- [Location API](#location-api)
+- [Video](#video)
+
 ## Proposed System 
 
    The application ‘FooDo’ will first ask the user if they just want to donate some food (if they are a donor) or if they want to login as a volunteer (if the user is a volunteer). A user can also know more about the app by clicking on the ‘about us’ button.
