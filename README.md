@@ -48,7 +48,7 @@ By donating food, one makes sure that there is one less hungry person that day. 
 
 ### 8. ABOUT US
 
-	This page will explain how to use this app to help those in need. 
+This page will explain how to use this app to help those in need. 
 
 ## Database Structure 
 
